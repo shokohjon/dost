@@ -1,0 +1,1 @@
+I know that they use git in windows format but I really think that command git in bash help me to understand that better
